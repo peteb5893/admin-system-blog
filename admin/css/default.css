@@ -170,13 +170,36 @@ html,body{
 }
 .navbar-default .navbar-toggle:focus{
 	background-color: #1ab394;
-	
+
 }
 .navbar-default .icon-bar{
 	border: 1px white solid;
 }
 
-
+#content{
+	margin: 20px 0px 0px 0px;
+	background-color: #fff;
+	border-top: 4px #e7eaec solid;
+}
+.content header{
+	border-bottom: 1px #f3f3f4 solid;
+	padding: 10px 0px;
+}
+.page_title{
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px 10px 20px 20px;
+	margin: 0px;
+}
+.content-inner{
+	padding:20px;
+}
+/*New Article Page only*/
+.form-wrapper{
+	margin: 10px;
+	padding:20px;
+	background-color: #eee;
+}
 
 
 
