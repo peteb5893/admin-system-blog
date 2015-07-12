@@ -1,0 +1,14 @@
+/*CSS Rules for New Article */
+
+.form-wrapper{
+	margin: 10px;
+	padding:20px;
+	background-color: #eee;
+}
+.note-editable{
+	background-color: #fff;
+}
+
+.chosen-container, .chosen-container-multi{
+	width: 100% !important;
+}
