@@ -200,7 +200,9 @@ html,body{
 	padding:20px;
 	background-color: #eee;
 }
-
+.note-editable{
+	background-color: #fff;
+}
 
 
 
