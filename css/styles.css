@@ -1,0 +1,102 @@
+body{
+	margin-bottom: 80px;
+}
+
+.box{
+	border: solid 1px black;
+}
+.page-header{
+	margin-top:0;
+}
+
+.panel-body{
+	padding-top:0;
+}
+
+.featuredImg{
+	margin-bottom: 15px;
+	width:100%;
+}
+
+.form-login{
+	width:300px;
+	padding:0px 10px 10px 10px;
+}
+
+/*Only used on the Posts Page*/
+.profile{
+	margin-right:40px;
+}
+.profile aside p{
+	font-size: 12px;
+}
+.profile aside ul li{
+	float:left;
+	margin-right:8px;
+}
+.profile aside ul{
+	list-style: none;
+	padding:0px;
+}
+.row header h2{
+	margin-bottom:0px;
+}
+.row footer{
+	margin-bottom: 10px;
+	color: #fff;
+}
+.lead{
+	margin-bottom: 10px;
+}
+
+/*Only on Article page*/
+.form-comment{
+	margin-top: 20px;
+}
+.comment-num{
+	font-size: 16px;
+	color: #ccc;
+	margin-top:75px;
+}
+#comments{
+	margin-top: 50px;
+}
+#message{
+	height:100px;
+}
+
+/*Only on Archive Page*/
+.row.archives{
+	margin-bottom: 5px;
+}
+.row.archives a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: normal;
+}
+.row.archives a:hover{
+	text-decoration: underline;
+}
+.date{
+	color: #ccc;
+}
+
+
+@media (max-width: 992px){
+
+	.profile-image{
+		float:left;
+		margin-right: 15px;
+	}
+	.profile-content{
+		float:left;
+		margin-bottom: 10px;
+	}
+	.social-icons{
+		
+	}
+}
+
+
+
+
